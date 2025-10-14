@@ -7,7 +7,12 @@ function App() {
 
   return (
     <>
+    <div className='flex justify-center gap-5'>
+
       <ProfileCard/>
+      <ProfileCard/>
+      <ProfileCard/>
+    </div>
     </>
   )
 }
