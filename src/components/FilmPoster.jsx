@@ -39,8 +39,8 @@ export default function FilmPoster() {
               unde.
             </h1>
 
-             <div className="grid grid-cols-3 h-60 self-stretch w-160 mt-6">
-            <div className=" flex flex-col items-start">
+            <div className="grid grid-cols-3 h-60 self-stretch w-160 mt-6">
+              <div className=" flex flex-col items-start">
                 <h1 className="font-bold">Actors</h1>
                 <h1 className="text-blue-500 font-semibold">Oscar Isacc</h1>
                 <h1 className="text-blue-500 font-semibold">Mark Hamil</h1>
@@ -48,41 +48,41 @@ export default function FilmPoster() {
                 <h1 className="text-blue-500 font-semibold">Jhon Boyaga</h1>
                 <h1 className="text-blue-500 font-semibold">Kelly Merie tran</h1>
                 <h1 className="font-bold mt-4">More...</h1>
-                
-            </div>
-            <div className=" flex flex-col items-start">
+
+              </div>
+              <div className=" flex flex-col items-start">
                 <h1 className="font-bold">Directors</h1>
                 <h1 className="text-blue-500 font-semibold">Oscar Isacc</h1>
                 <h1 className="text-blue-500 font-semibold">Mark Hamil</h1>
                 <h1 className="font-bold">Directors</h1>
                 <h1 className="text-blue-500 font-semibold">Daisy Haidlay</h1>
-                
-            </div>
-            <div className=" flex flex-col items-start">
+
+              </div>
+              <div className=" flex flex-col items-start">
                 <h1 className="font-bold">Producers</h1>
                 <h1 className="text-blue-500 font-semibold">kathleen Kennedy</h1>
                 <h1 className="text-blue-500 font-semibold">Ram Bergman</h1>
                 <h1 className="text-blue-500 font-semibold">Daisy Haidlay</h1>
-                
+
+              </div>
             </div>
-          </div>
 
           </div>
 
-         
+
         </div>
         <div>
-            
+
         </div>
-          <div className="mt-6 flex gap-54 px-4">
-            <h1 className="font-bold">$15</h1>
-            <button className="bg-white border-3 rounded-2xl px-6 py-1 font-bold -mt-2">Buy</button>
-          </div>
+        <div className="mt-6 flex gap-54 px-4">
+          <h1 className="font-bold">$15</h1>
+          <button className="bg-white border-3 rounded-2xl px-6 py-1 font-bold -mt-2">Buy</button>
+        </div>
 
-          <div className="flex justify-end items-end relative bottom-10 right-6">  
-            <button className="bg-black text-white px-10 py-2 rounded-3xl">Watch Trailer </button>
+        <div className="flex justify-end items-end relative bottom-10 right-6">
+          <button className="bg-black text-white px-10 py-2 rounded-3xl">Watch Trailer </button>
 
-          </div>
+        </div>
       </div>
     </div>
   );
