@@ -8,7 +8,7 @@ export default function ProfileCard() {
           <div className="bg-gradient-to-b from-blue-400 to-green-400 size-48 rounded-full flex justify-center items-center">
             <img
               className="size-45 rounded-full"
-              src="https://images.unsplash.com/photo-1547619292-870fe4aeadb8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2ZpbGUlMjBwaG90byUyMGRhcmslMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+              src="https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmlsZSUyMHBpY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
               alt=""
             />
           </div>
